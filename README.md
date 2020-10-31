@@ -4,6 +4,14 @@ Menganalisis nutrisi dari setiap item menu di menu McDonald's AS, termasuk sarap
 Hal yang dianalisa yaitu : 
 * Berapa banyak rata-rata kalori yang terkandung dalam makanan McDonald's? 
 * Seberapa banyak minuman, seperti soda atau kopi, berkontribusi pada asupan kalori keseluruhan? 
-* Apakah ayam panggang yang dipesan alih-alih renyah meningkatkan nilai gizi sandwich? 
-* Bagaimana dengan memesan putih telur daripada telur utuh? 
-* Berapa jumlah makanan paling sedikit yang dapat Anda pesan dari menu untuk memenuhi kebutuhan gizi suatu hari?
+* Menganalisa kandungan nutrisi pada sandwich grilled chicken dengan crispy chicken, Apakah meningkatkan nilai gizi sandwich? 
+* Bagaimana nilai gizi dengan memesan putih telur daripada telur utuh? 
+* Berapa jumlah makanan paling sedikit yang dapat dipesan dari menu untuk memenuhi kebutuhan gizi suatu hari?
+
+# Dataset 
+* Open Folder #Dataset
+* Link Dataset : https://www.kaggle.com/mcdonalds/nutrition-facts/download
+
+# Intruksi 
+* Download Dataset
+* Run file Nutrition Fact for McDonald’s Menu .ipynb
